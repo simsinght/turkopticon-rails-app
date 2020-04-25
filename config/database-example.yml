@@ -3,7 +3,7 @@ development:
   database: turkopticon_devel
   host: localhost
   username: turkopticon_dev
-  password: password
+  password: your_password
 
 production:
   adapter: mysql
